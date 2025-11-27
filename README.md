@@ -21,6 +21,7 @@ Correlation between pollution and respiratory diseases
 Triggers that influence consumer interest in air purifiers
 
 The analysis uses datasets from Dataful, combined with additional research datasets, and is visualized through an interactive Power BI dashboard.
+<hr>
 
 🎯 Project Objectives
 1. Severity Mapping
@@ -86,6 +87,7 @@ Identification of high-risk states
 <img width="1259" height="704" alt="image" src="https://github.com/user-attachments/assets/b7e10afa-df43-4eac-bf87-9f6484d8e11e" />
 
 <br>
+
 Includes:
 
 Priority score by state (based on AQI, income, health, and demand factors)
@@ -100,6 +102,7 @@ Market gap identification
 
 Consumer demand triggers
 <br>
+<hr>
 🧠 Key Insights
 🔹 Pollutant Analysis
 
@@ -143,6 +146,7 @@ Mid-range purifiers (₹10,000–₹20,000) show strongest competitiveness.
 
 States with severe AQI but low purifier penetration indicate untapped opportunities.
 <br>
+<hr>
 
 🛠 Tools & Technologies
 
