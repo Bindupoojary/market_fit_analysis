@@ -42,6 +42,7 @@ Analyze how pollution influences consumer behavior. Identify market opportunitie
 The Power BI dashboard consists of three main modules:
 
 🟦 1. AQI & Severity Analysis
+<br>
 
 
 <img width="1259" height="710" alt="image" src="https://github.com/user-attachments/assets/fcb8b993-2a2b-4eeb-b358-dad1c1f07ad2" />
@@ -65,6 +66,7 @@ EV vehicle count vs AQI comparison
 City-wise AQI benchmark chart
 
 🟩 2. Respiratory Health Impact Analysis
+<br>
 <img width="1266" height="705" alt="image" src="https://github.com/user-attachments/assets/6f6291d9-004d-40e2-8c10-f9ba125c5c6a" />
 
 <br>
@@ -84,6 +86,7 @@ Monthly disease trend analysis
 Identification of high-risk states
 
 🟧 3. Economic & Market Demand Analysis
+<br>
 <img width="1259" height="704" alt="image" src="https://github.com/user-attachments/assets/b7e10afa-df43-4eac-bf87-9f6484d8e11e" />
 
 <br>
@@ -104,6 +107,7 @@ Consumer demand triggers
 <br>
 <hr>
 🧠 Key Insights
+
 🔹 Pollutant Analysis
 
 PM2.5 and PM10 are the dominant pollutants across most regions.
