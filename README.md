@@ -1,5 +1,5 @@
 <h1>Air Quality, Health Impact & Market Demand Analysis
-Comprehensive AQI, Respiratory Health, and Air Purifier Market Insights for India</h1>h1>
+Comprehensive AQI, Respiratory Health, and Air Purifier Market Insights for India</h1>
 
 <br>
 📌 Project Overview
