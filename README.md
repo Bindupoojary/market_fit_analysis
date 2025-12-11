@@ -1,22 +1,19 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
+
   <title>Air Quality, Health & Market Demand Analysis — Portfolio</title>
-</head>
-<body>
+
+
   <header>
     <h1>Air Quality, Health Impact & Market Demand Analysis</h1>
     <p>Integrated Power BI analysis combining AQI, respiratory health data and market intelligence for targeted interventions and commercial strategies.</p>
   </header>
 
-  <main>
-    <section>
+<hr>
+  
       <h2>Project Summary</h2>
       <p>This project presents a unified analytical framework connecting air pollution metrics, public health outcomes, and market demand signals to provide actionable recommendations for policymakers and consumer brands.</p>
-    </section>
 
-    <section>
+<hr>
+
       <h2>Dashboard Preview & Live Link</h2>
       <p>Open the interactive report: <a href="https://app.powerbi.com/view?r=eyJrIjoiZjIzY2Y2YjUtODRlYS00OWEyLWE1YmQtYTNiYmQyOGQzYTJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank" rel="noopener noreferrer">Live Power BI Dashboard</a></p>
 
@@ -31,9 +28,9 @@
         <img src="/mnt/data/849683e3-14b3-4a4d-915d-10ca38033c15.png" alt="Market 2">
         <img src="/mnt/data/042c3108-7335-4a7d-a0d1-031f0182ed9c.png" alt="Market 3">
       </div>
-    </section>
 
-    <section>
+
+<hr>
       <h2>Detailed Breakdown of Dashboard Views</h2>
 
       <h3>AQI Severity & Environmental Risk View</h3>
@@ -66,6 +63,7 @@
         <li>State-wise pollutant mapping and recommended filter types based on pollutant dominance.</li>
         <li>Income vs AQI scatter correlation to identify high-demand/high-affordability consumer segments.</li>
       </ul>
+      <hr>
 
       <h3>Overall Project Outcomes</h3>
       <ul>
@@ -75,11 +73,9 @@
         <li>Seasonal Intervention Strategy: Identified winter and early monsoon as the most critical windows for both health advisories and purifier sales surges.</li>
         <li>High-Value Decision Framework: Produced a multi-layer system usable by government bodies, healthcare organizations, and consumer brands.</li>
       </ul>
-    </section>
-  </main>
+
 
   <footer>
     <p>Prepared by — Data Analyst Portfolio • Includes visualization and decision insights ready for interviews</p>
   </footer>
-</body>
-</html>
+
