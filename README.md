@@ -117,10 +117,10 @@
 
 <h2>🛠 Tools & Data Sources</h2>
 <ul>
-  <li><strong>Power BI</strong> — interactive dashboards, DAX measures, mapping and storytelling</li>
-  <li><strong>Python (pandas)</strong> — ETL, cleaning, seasonal interpolation, spike detection</li>
+  <li><strong>Power BI</strong> - interactive dashboards, DAX measures, mapping and storytelling</li>
+  <li><strong>Python (pandas)</strong> - ETL, cleaning, seasonal interpolation, spike detection</li>
   <li><strong>Dataful</strong> — primary AQI & disease datasets</li>
-  <li><strong>Market research</strong> — competitor specs, pricing, CADR, and feature lists (manually curated)</li>
+  <li><strong>Market research</strong> - competitor specs, pricing, CADR, and feature lists (manually curated)</li>
   <li><strong>Public economic indicators</strong> for income-adjusted demand scoring</li>
 </ul>
 
@@ -137,4 +137,4 @@
 
 <hr>
 
-<p style="font-size:0.95em;color:#444">Prepared by — Data Analyst Portfolio. Full PBIX, cleaned datasets and Python notebook available on request.</p>
+<p style="font-size:0.95em;color:#444">Prepared by Data Analyst Portfolio. Full PBIX, cleaned datasets and Python notebook available on request.</p>
