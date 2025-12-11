@@ -137,4 +137,3 @@
 
 <hr>
 
-<p style="font-size:0.95em;color:#444">Prepared by Data Analyst Portfolio. Full PBIX, cleaned datasets and Python notebook available on request.</p>
